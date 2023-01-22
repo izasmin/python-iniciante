@@ -1,3 +1,5 @@
+https://www.casio-calculadoras.com/images/casio-news/CASIO_NEWS_N22_2022.pdf
+
 Escreva um programa, em linguagem Python, que determina a equação reduzida da
 reta s, perpendicular à reta r definida por y = mx + b (com m "≠" 0) e que contém o
 ponto P de coordenadas (xP , yP).
