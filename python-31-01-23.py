@@ -1,4 +1,5 @@
 # Parte do livro Introdução à Programação com Python
+https://python.nilo.pro.br/exercicios3/
 # Autor: Nilo Ney Coutinho Menezes
 # Editora Novatec (c) 2010-2022
 # Primeira edição - Novembro/2010 - ISBN 978-85-7522-250-8
