@@ -1,0 +1,23 @@
+Juntando listas
+dataset_1 = [1,2,3,4,5]
+dataset_2 = [6,7]
+print(dataset_1 + dataset_2)
+
+Juntando listas
+seats = [1,2,3]
+taken = [True, True, False]
+print(seats + taken)
+
+Juntando listas
+dataset_1 = [1,2,3,4,5]
+dataset_2 = [6,7]
+combined = dataset_1 + dataset_2
+print(combined)
+
+Contar a frequencia "yes" apareceu na lista de respostas
+answers = ["yes", "no", "sometimes", "yes", "no"]
+print(answers.count("yes"))
+
+Se não quisermos saber o número exato, mas apenas existir um elemento como "sugar", usamos a palavra in.
+ingredientes = ["flour", "butter", "sugar", "eggs"]
+print("sugar" in ingredients)
